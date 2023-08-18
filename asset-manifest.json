@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TodoList/static/css/main.fd48ea48.css",
+    "main.js": "/TodoList/static/js/main.9cf737bb.js",
+    "static/js/787.97a945da.chunk.js": "/TodoList/static/js/787.97a945da.chunk.js",
+    "static/media/JosefinSans-SemiBold.ttf": "/TodoList/static/media/JosefinSans-SemiBold.2e34db3490edd3889c75.ttf",
+    "static/media/JosefinSans-Regular.ttf": "/TodoList/static/media/JosefinSans-Regular.c978665c44b59cf9c71f.ttf",
+    "static/media/JosefinSans-ExtraLight.ttf": "/TodoList/static/media/JosefinSans-ExtraLight.7144c219303b1306d92e.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/TodoList/static/media/JosefinSans-Bold.0ec6d05a9917d9c58519.ttf",
+    "index.html": "/TodoList/index.html",
+    "main.fd48ea48.css.map": "/TodoList/static/css/main.fd48ea48.css.map",
+    "main.9cf737bb.js.map": "/TodoList/static/js/main.9cf737bb.js.map",
+    "787.97a945da.chunk.js.map": "/TodoList/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd48ea48.css",
+    "static/js/main.9cf737bb.js"
+  ]
+}
